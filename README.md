@@ -1,6 +1,6 @@
 # ContractScan AI
 
-![ContractScan AI Dashboard](public/screenshots/dashboard.png)
+![ContractScan AI Dashboard](public/dashboard.png)
 
 **Day 9 of 100 Days, 100 AI Agents** — Autonomous contract risk analysis agent that reads any contract, detects red flags, identifies missing protections, and generates a negotiation playbook. Built with a 4-agent swarm architecture.
 
